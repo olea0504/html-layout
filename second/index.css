@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 25px;
+  }
+  .container-one {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+  }
+  .square-one {
+      width: 30px;
+      height: 150px;
+      background-color: rgb(182, 49, 182);
+      display: inline-block;
+      margin-right: 50px;
+  }
+  .square-two {
+      width: 300px;
+      height: 200px;
+      background-color: green;
+      display: inline-block;  
+  }
+  .container-two {
+      width: 100%;
+      border: 2px dotted grey;
+      padding: 10px;
+      box-sizing: border-box;
+  }
+ 
